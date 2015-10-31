@@ -1,0 +1,16 @@
+{
+  "author": "",
+  "name": "flint-app-typing-text",
+  "repository": "https://github.com/typing-text",
+  "description": "",
+  "version": "1.0.0",
+  "main": "",
+  "scripts": {},
+  "dependencies": {
+    "jquery": "^2.1.4",
+    "s": "^0.1.1",
+    "sive": "0.0.0",
+    "typed-text": "^1.1.0"
+  },
+  "installed": []
+}
